@@ -3,4 +3,8 @@ Esta es la historia de Henry Grijalva
 Henry Grijalva tiene 31 años y nacio en El Salvador,
 viviendo en todo el mundo
 
+<<<<<<< HEAD
 Hoy hablaresmos de su vida y obra maestra.
+=======
+Mañana hablaremos sobre su trabajo.
+>>>>>>> cabecera
